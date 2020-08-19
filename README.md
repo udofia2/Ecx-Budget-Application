@@ -1,3 +1,3 @@
 
 ## Technologied Used
-Mongo DB, Mongoose, Javascript, pugjs, Nodejs.
+Mongo DB, Mongoose, Javascript, Nodejs.
